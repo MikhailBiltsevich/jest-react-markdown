@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <header
+      class="App-header"
+    >
+      <p>
+        Edit 
+        <code>
+          src/App.js
+        </code>
+         and save to reload.
+      </p>
+      <a
+        class="App-link"
+        href="https://reactjs.org"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Learn React
+      </a>
+    </header>
+    <h1>
+      This is some example markdown
+    </h1>
+    
+
+    <p>
+      Look at all the great things you can do with markdown!
+    </p>
+    
+
+    <h2>
+      This is a Heading
+    </h2>
+    
+
+    <pre>
+      <code
+        class="language-js"
+      >
+        console.log('This is some code')
+
+      </code>
+    </pre>
+    
+
+    <h3>
+      This is a Smaller Heading
+    </h3>
+    
+
+    <pre>
+      <code
+        class="language-bash"
+      >
+        npm install @codemirror/lang-markdown --save
+npm install @codemirror/language-data --save
+
+      </code>
+    </pre>
+    
+
+    <h3>
+      This is a link
+    </h3>
+    
+
+    <p>
+      Markdown link 
+      <a
+        href="https://www.timeshighereducation.com/terms"
+      >
+        THE Terms and Conditions
+      </a>
+      .
+    </p>
+  </div>
+</DocumentFragment>
+`;
